@@ -1,4 +1,4 @@
-A simple template for creating React application with no dependency on any CRA
+A simple template for creating React application. Just clone this project and get started.
 
 ## Available Scripts
 
