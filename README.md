@@ -20,5 +20,7 @@ The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
 ### `npm run start`
-Run this after you create the production build using `npm run build` <br>
-Your app is rendered using 'serve' module
+This serves the production build using 'serve' module.
+Run this after you create the production build.<br>
+
+Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
