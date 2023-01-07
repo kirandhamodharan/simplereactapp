@@ -24,3 +24,11 @@ This serves the production build using 'serve' module.
 Run this after you create the production build.<br>
 
 Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
+
+## Clean up
+
+### Install Dev Dependencies
+npm install "@babel/core" "@babel/preset-env" "@babel/preset-react" "babel-loader" "clean-webpack-plugin" "css-loader" "file-loader" "html-webpack-plugin" "style-loader" "webpack" "webpack-cli" "webpack-dev-server" "webpack-merge" --save-dev
+
+### Install Dependencies
+npm install "lodash" "react" "react-dom"
